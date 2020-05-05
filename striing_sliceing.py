@@ -13,3 +13,10 @@ print(mystrng[8])
 print(mystrng[9])
 print(mystrng[10])
 print(mystrng[11])
+###################  Take any Index #######################
+
+mystrng1 = "SUPPERPOWER"
+print(mystrng1[:])
+print(mystrng1[0:2])   # ZERO is START point : then END point
+print(mystrng1[-1])   # Negetive also works here 
+
