@@ -1,4 +1,4 @@
-########### Sring Sliceing in Python #################
+########### String Indexing in Python #################
 
 mystrng = "Haresh Singh"
 print(mystrng[0])  # index is start with ZERO in Every string 
@@ -13,7 +13,7 @@ print(mystrng[8])
 print(mystrng[9])
 print(mystrng[10])
 print(mystrng[11])
-###################  Take any Index #######################
+################### String Sliceing in Python #######################
 
 mystrng1 = "SUPPERPOWER"
 print(mystrng1[:])
