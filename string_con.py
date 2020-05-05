@@ -2,7 +2,7 @@
 
 x = "HARESH IS GOOD BOY "
 y = "and he is working with Coverfox"
-
+    
 
 print(x+y)                        # Concinate ( its add or plus the string )
 print(x.replace("is","are"))      # is replacec with are 
