@@ -22,3 +22,8 @@ newstrng4 = float(0.11)
 newstrng5 = float(0.1) 
 
 
+
+
+
+
+
