@@ -9,12 +9,10 @@ Employe_list.append("Neha") # Append Prtice
 Product_list.append("Milk") # Append Pratice 
 Sauce_List.append("Tomato-Ketchup") # Append Pratice
 
-
-print(Sauce_List)
-print(Product_list)
-print(Employe_list)
-
-
+new_list = ["a","r","t","h","d","p"]
+new_list_num = [1,9,6,3,4,2 ]
+new_list.sort()             # this will help you sorting your list or string alphabetically or numeric
+new_list_num.sort()
 
 
 
