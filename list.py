@@ -12,7 +12,7 @@ Sauce_List.append("Tomato-Ketchup") # Append Pratice
 new_list = ["a","r","t","h","d","p"]
 new_list_num = [1,9,6,3,4,2 ]
 new_list.sort()             # this will help you sorting your list or string alphabetically or numeric
-new_list_num.sort()
+new_list_num.sort()         # this will help you sorting your list or intejar numeric. 
 
 
 
