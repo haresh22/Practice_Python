@@ -10,3 +10,11 @@ print(pentaafood_Emp_details["Haresh"][0])
 print(pentaafood_Emp_details["Vikrant"][2])
 print(pentaafood_Emp_details["Vipula"][1])
 
+
+pentaafood_product = {
+    "Veg Pizza":[100],"Veg Burger":[49], "White Pasta":[110]
+    }
+total_bill = (pentaafood_product["Veg Pizza"])
+
+print(total_bill)
+
